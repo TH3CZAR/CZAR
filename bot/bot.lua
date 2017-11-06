@@ -92,6 +92,7 @@ function create_config( )
     "plugins",
     "tools",
 	"replay",
+	"zhrf",
 	"ve",
 
 	},
